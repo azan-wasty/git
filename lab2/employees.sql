@@ -64,4 +64,4 @@ INSERT INTO orders VALUES
 
 SELECT * FROM salesman;
 SELECT * FROM customers;
- SELECT * FROM orders;
+ SELECT * FROM orders;  
